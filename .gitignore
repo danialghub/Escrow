@@ -2,8 +2,8 @@ node_modules
 .env
 
 # Hardhat files
-/cache
-/artifacts
+/smart_contract/cache
+/smart_contract/artifacts
 
 # TypeChain files
 /typechain
